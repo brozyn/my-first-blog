@@ -25,7 +25,7 @@ SECRET_KEY = '0=md7o1mj#)k&g_6t8x3e@3d8jw*u4+fdi$i^e1l$4-5ti!px4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['brozyn.pythonanywhere.com']
 
 
 # Application definition
